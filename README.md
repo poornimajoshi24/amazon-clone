@@ -2,7 +2,7 @@
 
 A beginner-level Amazon homepage clone created using only HTML and CSS.  
 🔨 **Tech Used**: HTML5, CSS3, Font Awesome  
-🌐 **Live Preview**: [View Website](https://your-username.github.io/amazon-clone-html-css/)
+
 
 ## Features
 
@@ -17,10 +17,3 @@ A beginner-level Amazon homepage clone created using only HTML and CSS.
 - Mobile responsiveness
 - JavaScript interactivity
 
-## Screenshots
-
-_Add screenshots of the webpage here_
-
-## Author
-
-**Poornima Joshi** | [LinkedIn](#) | [Portfolio (Coming Soon)](#)
