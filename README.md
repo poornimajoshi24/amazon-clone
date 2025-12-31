@@ -12,7 +12,7 @@ A beginner-level Amazon homepage clone created using only HTML and CSS.
 - Hover effects, dropdowns
 - Font Awesome Icons
 
-## Still To Improve
+## Still To Impro
 
 - Mobile responsiveness
 - JavaScript interactivity
