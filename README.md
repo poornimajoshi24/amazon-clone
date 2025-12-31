@@ -15,5 +15,5 @@ A beginner-level Amazon homepage clone created using only HTML and CSS.
 ## Still To Improve
 
 - Mobile responsiveness
-- JavaScript interactivity
+- JavaScript interactivit
 
