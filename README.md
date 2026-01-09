@@ -4,6 +4,7 @@ A beginner-level Amazon homepage clone created using only HTML and CSS.
 🔨 **Tech Used**: HTML5, CSS3, Font Awesome  
 
 
+
 ## Features
 
 - Amazon-style navbar and search
@@ -11,6 +12,7 @@ A beginner-level Amazon homepage clone created using only HTML and CSS.
 - Fully designed footer
 - Hover effects, dropdowns
 - Font Awesome Icons
+
 
 ## Still To Improve
 
